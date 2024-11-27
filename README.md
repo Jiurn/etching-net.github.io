@@ -6,6 +6,9 @@
 Welcome to etching.net's [**DIGITAL ARTIFACT INDEX**](#digital-artifact-index), a volunteer-curated list of Bitcoin digital artifacts that preserve seminal works with longstanding cultural value.  Anyone can contribute a record to the index!
 
 
+
+# Hello, I am Jiurn and is very interesting to talk to you. I have more than 75 inscribed books I wanna contribute to this, but I would want to talk to you first. I didn't know how else to contact you other than by making a PR, so I apologize for the inconvenience. Please contact me at @Jiurn or @Geckoking_ on X (Twitter). Thank you for your time. You can delete this request after reading this.
+
 ### Why though?
 
 The mission of etching.net is to safeguard humanity's hard-won knowledge on the blockchain, like a time-capsule, in order to reduce the potential damage to civilization in the case of a catastrophic event.
